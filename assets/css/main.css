@@ -156,7 +156,7 @@ header .sitename{
   .sitename img{
     width: 50%;
     box-shadow: 0px 0px 20px #ffc451;
-    border-radius: 40% ;
+    border-radius: 40% 20%;
     padding: 10px;
     animation: scale 2s infinite ease-in-out 
     }
